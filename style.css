@@ -1,0 +1,38 @@
+.imglogo{
+padding: 20px;
+margin: -3px;
+border-image-width: 20px;
+height: 60px;
+width: 70px;
+
+}
+body{
+background-color: #eee3ed;
+
+}
+.bodyh1{
+height: 20px;
+width: fit-content;
+align-content: center;
+
+}
+.navbar{
+display: flex;
+justify-content: space-around;
+}
+.navbar1{
+display: flex;
+justify-content: space-between;
+}
+.links{
+    display: flex;
+    gap:14px;
+}
+.registration{
+display: flex;
+flex-direction: row;
+gap:14px;
+
+
+
+}
